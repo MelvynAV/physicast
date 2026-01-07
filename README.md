@@ -1,3 +1,10 @@
+# PhysiCast | Spatial Reasoning Engine
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://physicast.onrender.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/MelvynAv/physicast)
+
+**PhysiCast** est un moteur d'IA physique développé pour démontrer des capacités avancées en perception visuelle et en raisonnement spatial.
+
 # PhysiCast: Spatial Semantic Interpreter
 
 **PhysiCast** is a Physical AI prototype designed for real time scene interpretation and spatial reasoning. By bridging computer vision and localized large language models, the system converts raw environmental data into actionable **Spatial Knowledge Graphs**.
